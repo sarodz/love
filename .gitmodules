@@ -1,0 +1,4 @@
+[submodule "LuaJIT"]
+	path = LuaJIT
+	url = git@github.com:sarodz/LuaJIT.git
+	branch = v2.1-patches
